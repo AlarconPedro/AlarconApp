@@ -8,7 +8,7 @@ export const Contato = () => {
                 <div className="col col-md-6 contato">
                     <div className="container-fluid border border-secondary border-2 rounded column bordas">
                         <div class="perfil row col col-md-12">    
-                           <img src="images/perfil.jpg" alt="Perfil" className="border border-secondary border-2" />
+                           <img src="images/Perfil.jpg" alt="Perfil" className="border border-secondary border-2" />
                            <div className="perfil col col col-md-8,">
                                <h3>Dados :</h3>
                                <h5>Nome: Pedro Henrique Alarcon</h5>
