@@ -29,12 +29,12 @@ export const Hobbies = () => {
                 </div>
                 <div className="container col col-md-3 border border-secondary rounded bordas border-2">
                     <h3>Dirigir:</h3>
-                    <p>Dirigir sempre foi algo que gostei antes mesmo de ser habiltiado, seja atráves de simuladores ou até mesmo dentro carro durante viagens, gosto des descobrir lugares novos,
+                    <p>Dirigir sempre foi algo que gostei antes mesmo de ser habiltiado, seja atráves de simuladores ou até mesmo dentro carro durante viagens, gosto de descobrir lugares novos,
                     chegar em lugares com culturas difetentes.</p>
                     <p>E Atualmente após ser habilitado, acabei desenvolvendo um gosto não só por carros, mas um gosto muito grande por motos, pela "liberdade" que ela da enquanto estamos pilotando, 
                     é uma vertente recente do meu hobby mas que gosto muito. 
                     </p>
-                    <p>Além da "liberdade" também tem o fator que uma moto top de linha é bem mais brato que um carro seja para manter ela quanto para comprar, 
+                    <p>Além da "liberdade" também tem o fator que uma moto top de linha é bem mais barato que um carro seja para manter ela quanto para comprar, 
                     e isso proporciona uma facilidade maior de poder praticar esse hobby.</p>
                     <br />
                     <br />

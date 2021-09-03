@@ -57,7 +57,7 @@ export const Sobre = () => {
                     para mim foi um dos empregos mais importantes da minha vida.</p>
                     <p>Muitas coisas que aprendi lá eu levo para vida até hoje foi um estágio que me mostrou ver o mundo de uma outra forma e entender como muitas coisas funcionam.</p>
                     <p>Após esse estágio eu tive mais 3 estágios, que foi 3 meses de estagiário no Alfa Integral de Umuarama, após esse foi um estágio de 1 mês na Casa do Empreendedor,
-                    e por último forám 3 meses como atendente de telemarketing para a vivo.</p>
+                    e por último foram 3 meses como atendente de telemarketing para a vivo.</p>
                     <img src="images/code1.jpg" alt="Games" className="imagens"/>
                 </div>
                 <div className="container col col-md-3 border border-secondary rounded bordas border-2">
@@ -66,7 +66,7 @@ export const Sobre = () => {
                     <p>Nessa empresa foi a onde eu tive meu primeiro contato com programação de uma forma bem generalizada, foi aonde conheci o HTML e o CSS, e logo após
                     já comecei a ter contato com linguagens bem mais avançadas, mas nada muito aprofundado, por que também eu aprendi tudo sozinho.</p>
                     <p>Nessa empresa eu fiquei durante 2 anos e meio até receber a proposta de trabalhar na câmara como estagiário como tempo integral, 
-                    tendo em vista que nesa empresa eu trabalha somente meio período.</p>
+                    tendo em vista que nesa empresa eu trabalhava somente meio período.</p>
                     <br />
                     <br />
                     <img src="images/php.jpg" alt="Games" className="imagens"/>

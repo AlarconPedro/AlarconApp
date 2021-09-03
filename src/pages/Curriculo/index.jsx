@@ -18,7 +18,7 @@ export const Curriculo = () => {
                 <div className="container col col-md-4 border border-secondary rounded bordas border-2">
                     <h3>Experiências:</h3>
                     <p>Meu primeiro emprego foi como suporte técnico em uma empresa de Umuarama que trabalhava com streaming online, o nome dessa empresa é Audio In.</p>
-                    <p>Nessa empresa foi a onde eu tive meu primeiro contato com programação de uma forma bem generalizada, foi aonde conheci o HTML e o CSS, e logo após
+                    <p>Nessa empresa foi aonde eu tive meu primeiro contato com programação de uma forma bem generalizada, foi aonde conheci o HTML e o CSS, e logo após
                     já comecei a ter contato com linguagens bem mais avançadas, mas nada muito aprofundado, por que também eu aprendi tudo sozinho.</p>
                     <p>Nessa empresa eu fiquei durante 2 anos e meio até receber a proposta de trabalhar na câmara como estagiário como tempo integral, 
                     tendo em vista que nesa empresa eu trabalha somente meio período.</p>
