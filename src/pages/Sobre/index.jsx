@@ -73,7 +73,7 @@ export const Sobre = () => {
                 </div>
                 <div className="container col col-md-3 border border-secondary rounded bordas border-2">
                     <h3>CLT:</h3>
-                    <p>Meu primeiro emprego com CLT é o que eu estou atualemnte, atualmente trabalho na empresa Alimentos Zaeli LTDA.</p>
+                    <p>Meu primeiro emprego com CLT é o que eu estou atualmente, trabalho na empresa Alimentos Zaeli LTDA.</p>
                     <p>Industria de alimentos localizada em Umuarama - PR, estou trabalhando nela desde Abril de 2020 até atualmente.</p>
                     <br />
                     <br />
